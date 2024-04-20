@@ -4,12 +4,16 @@
 
 - [ ] Make it deploy (vercel)
 - [ ] Scaffold basic ui with mock data
+- [ ] Tidy up build process
 - [ ] Actually set up a database (vercel postgres)
-- [ ] Attach database to ui
+- [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
 - [ ] Add image upload
+- [ ] "taint" (server-only)
+- [ ] Use Next/Image component
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image page (parallel route)
-- [ ] Delete button (w/ Server Actions)
+- [ ] Update upload button to be less cringe
 - [ ] Analytics (posthog)
-- [ ] Ratelimiting (uptash)
+- [ ] Delete button (w/ Server Actions)
+- [ ] Ratelimiting (upstash)
